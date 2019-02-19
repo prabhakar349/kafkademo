@@ -1,0 +1,9 @@
+{
+   "type" : "record",
+   "namespace" : "com.pd",
+   "name" : "Foo",
+   "fields" : [
+      { "name" : "name" , "type" : "string" },
+      { "name" : "age" , "type" : "int" }
+   ]
+}
